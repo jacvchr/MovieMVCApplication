@@ -3,7 +3,7 @@
 ## How To Use
 
 ## Overview
-This is my main project on my resume (until my University Database Applicaiton is finished), an ASP.NET Core MVC web app. This app allows the user to manage and display a database of movie titles. In any MVC web app, the architecture is split into three main components:
+This is one project found on my resume, an ASP.NET Core MVC web app. This app allows the user to manage and display a database of movie titles. In any MVC web app, the architecture is split into three main components:
 - Models: Classes that represent that data of the app
 - Views: Components that display the app's user interface
 - Controllers: Classes that handle browser requests
